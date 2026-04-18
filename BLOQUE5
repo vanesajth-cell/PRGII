@@ -1,1 +1,12 @@
+Funcionamiento del Programa
 
+El programa inicia solicitando al usuario el ingreso de una fecha específica, compuesta por año, mes y día. 
+Estos datos son enviados a un módulo externo encargado de procesar la información utilizando la librería datetime, 
+la cual permite trabajar con fechas reales del sistema.
+
+Dentro del módulo, se calcula la diferencia entre la fecha actual y la fecha ingresada, obteniendo el tiempo total transcurrido en segundos. 
+Posteriormente, este valor es convertido en diferentes unidades de tiempo mediante operaciones matemáticas, permitiendo obtener un desglose 
+en años, meses, días, horas y segundos, así como sus respectivos valores totales.
+
+Finalmente, el programa principal recibe los resultados procesados y los presenta en pantalla en forma de tabla, 
+mostrando de manera organizada tanto el desglose del tiempo como los totales calculados, facilitando la interpretación de la información por parte del usuario.
