@@ -1,1 +1,6 @@
 El registro Familiar
+Desarrollar un programa en Python que permita generar un registro familiar básico mediante el uso de Programación Orientada a Objetos (POO). 
+El sistema deberá solicitar información de varias personas, incluyendo su sexo, estado civil y, en caso de estar casadas, los datos de su pareja.
+Asimismo, se deberá registrar la cantidad de hijos y la información básica de cada uno.
+El programa deberá gestionar toda la información utilizando clases, métodos y objetos, garantizando una estructura organizada del código. 
+Finalmente, deberá presentar un resumen claro y ordenado de los datos ingresados.
